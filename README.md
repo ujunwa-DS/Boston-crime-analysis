@@ -9,10 +9,16 @@ The data was cleaned by removing null values and changing wrong data type, group
 
 
 Exploratory data analysis was done with matplotlib to see trends of crime both in relation to time, month, days, years. 
-The clean data was exported to local file and imported to Power BI for dashboard building where the following was visualized. 
+The cleaned data was exported to local file and imported to Power BI for dashboard building where the following was visualized. 
+
 Time with most crime occurrence=4-7pm
+
 Months with high crime = third quarter of the year (July to September).
+
 The most committed type of crime which is part three UCR (minor crime)
-total number of shooting =981
+
+Total number of shooting =981
+
 Year with highest crime = 2017
+
 Street with high crime rate which is Washington stree etc
